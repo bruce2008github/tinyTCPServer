@@ -2,7 +2,7 @@
 *****************************************************************************************************
 Note:
    
-   In order to make myself to familar with JAVA NIO and Network API, I write this tiny tcp servers Java framework. 
+   In order to make myself to familar with Java NIO and Network API, I write this tiny tcp servers Java framework. 
 
    It can handle thousands client tcp connections at same time.
 
