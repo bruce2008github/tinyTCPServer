@@ -16,7 +16,7 @@ Note:
 *****************************************************************************************************
 Build:
 
-   1) Make sure you have install the JDK 1.7 and ant
+   1) Make sure you have installed the JDK 1.7 and ant
 
    2) run ant
 
